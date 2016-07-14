@@ -1,1 +1,5 @@
 Just show me the previous program.
+The previous program consists of the following questions:
+What is the aim of your project?
+What is the future goal of your project?
+What is the scope of your project?
